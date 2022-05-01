@@ -8,12 +8,6 @@
 
 ---
 
-## Resources
-
-GitHub Repository URL:
-
-https://github.com/maddenc33/Movies-ETL
-
 ### Data Sources
 
  - credits.csv
@@ -33,10 +27,6 @@ https://github.com/maddenc33/Movies-ETL
 
 - Anaconda 4.12.0
   - conda-build version : 3.21.6
-
----
-
-## Challenge Overview
 
 ---
 
